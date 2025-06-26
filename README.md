@@ -9,7 +9,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+Sobre+m%C3%AD" alt="Sobre mí"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=39FF14&center=true&width=500&lines=%F0%9F%A7%A0+Sobre+m%C3%AD" alt="Sobre mí"/>
 </h2>
 
 🎓 Estudiante de noveno semestre de **Ingeniería en Ciencias de la Computación** en la **Benemérita Universidad Autónoma de Puebla**.  
