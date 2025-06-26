@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=435&lines=Samuel+Olvera!;Futuro+Ingeniero+ en +%7C+Ciencias +de+la+Computación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Samuel+Olvera+%7C+Futuro+Ingeniero+en+Ciencias+de+la+Computaci%C3%B3n;_Dise%C3%B1ando+y+construyendo+soluciones+con+prop%C3%B3sito+y+tecnolog%C3%ADa._" alt="Typing SVG" />
 </h1>
+
 
 ---
 
@@ -45,9 +46,9 @@
 
 ---
 
-### 📫 ¿Hablamos?
+### ✉️ Contacto
 
-- 💌 samuel.olvera@example.com  
+- 💌 samuolvera332@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BC3H1FUhXSdyaSgnQNilyuA%3D%3D)  
 - 🌐 [Portafolio](https://samuelolveraa.github.io/Portafolio/) 
 
