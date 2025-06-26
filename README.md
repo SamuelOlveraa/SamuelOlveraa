@@ -52,25 +52,11 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelOlveraa&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOlveraa&layout=compact&theme=radical)
-
----
-
-### 🔢 Contador de visitas
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=SamuelOlveraa&color=brightgreen)
-
----
-
 ### 📫 ¿Hablamos?
 
 - 💌 samuel.olvera@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BC3H1FUhXSdyaSgnQNilyuA%3D%3D)  
-- 🌐 [Portafolio](https://samuelolveraa.github.io/Portafolio/) *(opcional si lo tienes)*  
+- 🌐 [Portafolio](https://samuelolveraa.github.io/Portafolio/) 
 
 ---
 
