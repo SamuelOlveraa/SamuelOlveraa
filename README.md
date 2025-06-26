@@ -1,6 +1,6 @@
-## ✨ Samuel Olvera | Futuro Ingeniero en Ciencias de la Computación
-
-> _"Diseñando y construyendo soluciones con propósito y tecnología."_  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Samuel+Olvera!;Creative+Dev+%7C+Frontend+Engineer;Code+%2B+Visuals+%3D+⚡Hyperspeed" alt="Typing SVG" />
+</h1>
 
 ---
 
