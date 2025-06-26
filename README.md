@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119264050?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/119264050?v=4" width="150" alt="Samuel Olvera Avatar"/>
 </p>
 
 <h1 align="center">
@@ -72,7 +72,7 @@
 
 - ✉️ samuolvera332@gmail.com  
 - 🌐 [Portafolio](https://samuelolveraa.github.io/Portafolio/)  
-- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxtTcL2iBSTSQwECx0RBZOg%3D%3D)  
+- 💼 [LinkedIn](https://linkedin.com/in/samuel-olvera-cervantes-422338367)  
 
 ---
 
