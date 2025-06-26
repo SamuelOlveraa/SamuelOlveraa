@@ -70,9 +70,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=39FF14&center=true&width=500&lines=%F0%9F%94%A2+Contacto+y+Redes" alt="Contacto"/>
 </h2>
 
-- 💌 samuolvera332@gmail.com  
+- ✉️ samuolvera332@gmail.com  
 - 🌐 [Portafolio](https://samuelolveraa.github.io/Portafolio/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuelolvera)  
+- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxtTcL2iBSTSQwECx0RBZOg%3D%3D)  
 
 ---
 
