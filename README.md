@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Samuel+Olvera+%7C+Futuro+Ingeniero+en+Ciencias+de+la+Computaci%C3%B3n;Dise%C3%B1ando+y+construyendo+soluciones+con+prop%C3%B3sito+y+tecnolog%C3%ADa." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Samuel+Olvera+%7C+Ingeniero+en+Ciencias+de+la+Computaci%C3%B3n;Dise%C3%B1ando+y+construyendo+soluciones+con+prop%C3%B3sito+y+tecnolog%C3%ADa." alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=39FF14&center=true&width=500&lines=%F0%9F%A7%A0+Sobre+m%C3%AD" alt="Sobre mí"/>
 </h2>
 
-🎓 Estudiante de noveno semestre de **Ingeniería en Ciencias de la Computación** en la **Benemérita Universidad Autónoma de Puebla**.  
+🎓 **Ingeniería en Ciencias de la Computación** en la **Benemérita Universidad Autónoma de Puebla**.  
 💡 Desarrollo soluciones en web, móvil y análisis de datos con enfoque creativo, funcional y humano.  
 🧠 Me adapto con facilidad, aprendo rápidamente y trabajo en equipo con responsabilidad y pasión.  
 🚀 Busco integrarme a un entorno donde pueda **potenciar mi impacto a través de la tecnología**.
